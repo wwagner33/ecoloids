@@ -1,0 +1,6 @@
+{
+    "terrain": [
+        ["grass", "water", "grass"],
+        ["forest", "grass", "urban"]
+    ]
+}
