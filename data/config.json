@@ -1,5 +1,14 @@
 {
-    "grid_size": 20,
-    "window_width": 800,
-    "window_height": 600
+    "SCREEN_WIDTH": 930,
+    "SCREEN_HEIGHT": 640,
+    "WORLD_WIDTH": 32,
+    "WORLD_HEIGHT": 32,
+    "VIEW_WIDTH": 32,
+    "VIEW_HEIGHT": 32,
+    "SCALE_MULTIPLIER": 0.25,
+    "MAX_FPS": 30,
+    "VERBOSE": false,
+    "VERBOSE_FPS": true,
+    "OBJECT_MAP_LEVELS": 8,
+    "grid_size": 20
 }
